@@ -11,7 +11,10 @@
 - **[🐅四虎](https://www.zhao4hu.com/)**
 
 ### 联系作者
-- **[Telegram](t.me/whaogx)**
+- [dvc](t.me/whaogx)
+
+- [![telegram](https://user-images.githubusercontent.com/128218225/226097095-bfd25298-99fa-45e4-984c-4c4169dec2d8.png)](t.me/whaogx)
+
 <!--
 **51kanpian/51kanpian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

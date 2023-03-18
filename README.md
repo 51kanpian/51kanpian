@@ -2,7 +2,7 @@
 
 ### 科学上网
 - **[白鲸加速器](https://www.bjch123.com/?mid=3002)**
-- **[Clash for Win](https://github.com/Fndroid/clash_for_windows_pkg/releases)**k
+- **[Clash for Win](https://github.com/Fndroid/clash_for_windows_pkg/releases)**
 - **[Clash for Android](https://github.com/Kr328/ClashForAndroid/releases)**
 
 ### 好人一生平安网址

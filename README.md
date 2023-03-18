@@ -1,7 +1,7 @@
-<h1 align="center">学习永远在路上</h1>
-
+# <h1 align="center">[学习永远在路上](https://dwz.win/a35N)</h1>
 [![国旗](https://user-images.githubusercontent.com/105477348/221784395-ba1b2d1b-5ed1-474d-b94e-322026b69357.png)](https://github.com/51kanpian/51kanpian/blob/main/001/002/f.md)
 <!--
+<h1 align="center">学习永远在路上</h1>
 
 
 

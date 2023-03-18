@@ -9,7 +9,7 @@
 - **[🚌巴士](https://www.javbus.lol/)**
 - **[🐅四虎](https://www.zhao4hu.com/)**
 - **[🍉吃瓜网](https://github.com/51chigua/)**
-- **[🛒软件合集](https://www.123pan.com/s/I1VlVv-Fwjy.html)**
+- **[🛒软件合集](https://github.com/51kanpian/51kanpian/releases/tag/application)**
 ### 联系作者
  [![telegram](https://user-images.githubusercontent.com/128218225/226099755-9340f4e0-ff3b-476a-9fb1-02d951cda2b0.png)](http://t.me/whaogx)
 <!--

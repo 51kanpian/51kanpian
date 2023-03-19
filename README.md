@@ -1,6 +1,6 @@
 # <h1 align="center">[每日一图](https://dwz.win/a36w)</h1>
 
-[![No 2647_18](https://user-images.githubusercontent.com/128218225/226183918-e07395e4-aa33-4e46-8f65-15146b856faa.jpg)](https://github.com/51kanpian/51kanpian/blob/main/001/01.md)
+[![10001](https://user-images.githubusercontent.com/128218225/226184304-a9c32388-00f2-4669-a12b-c2e82603eb81.jpg)](https://github.com/51kanpian/51kanpian/blob/main/001/01.md)
 
 <!--
 <h1 align="center">学习永远在路上</h1>

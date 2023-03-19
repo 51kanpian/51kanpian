@@ -1,5 +1,7 @@
-# <h1 align="center">[学习永远在路上](https://dwz.win/a36w)</h1>
-[![国旗](https://user-images.githubusercontent.com/105477348/221784395-ba1b2d1b-5ed1-474d-b94e-322026b69357.png)](https://github.com/51kanpian/51kanpian/blob/main/001/01.md)
+# <h1 align="center">[每日一图](https://dwz.win/a36w)</h1>
+
+[![No 2647_18](https://user-images.githubusercontent.com/128218225/226183918-e07395e4-aa33-4e46-8f65-15146b856faa.jpg)](https://github.com/51kanpian/51kanpian/blob/main/001/01.md)
+
 <!--
 <h1 align="center">学习永远在路上</h1>
 

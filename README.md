@@ -1,10 +1,11 @@
 # <h1 align="center">[每日悦图](https://dwz.win/a36w)</h1>
 
-[![10001](https://user-images.githubusercontent.com/128218225/226184304-a9c32388-00f2-4669-a12b-c2e82603eb81.jpg)](http://u5n.cn/vxsw8)
+[![nan1](https://user-images.githubusercontent.com/128218225/226394920-42fbf78f-7e2b-4847-a075-762baec69eb5.jpg)](http://u5n.cn/vxsw8)
 
 <!--
 <h1 align="center">学习永远在路上</h1>
 
+![10001](https://user-images.githubusercontent.com/128218225/226184304-a9c32388-00f2-4669-a12b-c2e82603eb81.jpg)
 
 
 

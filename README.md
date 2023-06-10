@@ -1,6 +1,6 @@
 # <h1 align="center">[每日悦图](https://dwz.win/a36w)</h1>
 
-[![每日悦图](https://s1.imagehub.cc/images/2023/05/21/tnm1.jpeg)](https://github.com/51kanpian/51kanpian/blob/main/001/01.md)
+[![每日悦图](https://s1.imagehub.cc/images/2023/06/10/tnmxn.png)](https://github.com/51kanpian/51kanpian/blob/main/001/01.md)
 
 <!--
 <h1 align="center">学习永远在路上</h1>

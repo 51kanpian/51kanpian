@@ -1,9 +1,10 @@
 # <h1 align="center">[每日悦图](https://dwz.win/a36w)</h1>
 
-[![每日悦图](https://s1.imagehub.cc/images/2023/06/10/nana.jpeg)](https://github.com/51kanpian/51kanpian/blob/main/001/01.md)
+[![每日悦图](https://s1.imagehub.cc/images/2023/07/12/xiuren-anran.jpeg)](https://github.com/51kanpian/51kanpian/blob/main/001/01.md)
 
 <!--
 <h1 align="center">学习永远在路上</h1>
+https://s1.imagehub.cc/images/2023/06/10/nana.jpeg
 https://s1.imagehub.cc/images/2023/05/16/No.4447_01p.jpeg
 https://s1.imagehub.cc/images/2023/03/23/5bcccaad91c3c0c9b8c546f774441570.jpeg
 https://s1.imagehub.cc/images/2023/03/22/7a583a65696d2d0fc97d401aa95b2dc4.jpeg

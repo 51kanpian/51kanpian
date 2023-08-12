@@ -1,4 +1,4 @@
-# <h1 align="center">[每日悦图](https://dwz.win/a36w)</h1>
+# <h1 align="center">[每日悦图](https://github.com/51kanpian/51kanpian/blob/main/001/01.md)</h1>
 
 [![每日悦图](https://s1.imagehub.cc/images/2023/07/12/xiuren-anran.jpeg)](https://github.com/51kanpian/51kanpian/blob/main/001/01.md)
 
